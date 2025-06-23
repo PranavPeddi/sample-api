@@ -12,5 +12,6 @@ Global
 		{558C15E3-655C-4329-9252-2E3FF4F3042F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{558C15E3-655C-4329-9252-2E3FF4F3042F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{558C15E3-655C-4329-9252-2E3FF4F3042F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{558C15E3-655C-4329-9252-2E3FF4F3042F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
